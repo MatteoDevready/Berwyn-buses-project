@@ -1,0 +1,28 @@
+a.nav-item.nav-link.active {
+    background-color:#e3f2fd;
+}
+
+#contentWrapper {
+    padding-top:20px;
+}
+
+.mainContentContainer {
+    z-index:100;
+    position:relative;
+    top:-70px;
+}
+
+#messageContainer {
+    position:relative;
+    top:-60px;
+} 
+
+#promotionsContainer, #vehiclesContainer, #searchResultsContainer {
+    position:relative;
+    top:-60px;
+    background-color:rgb(212,237,218);
+}
+
+.help-block {
+    color:red!important;
+}
